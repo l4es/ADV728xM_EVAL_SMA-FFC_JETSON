@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name 5-1814832-1)(type Legacy)(uri ${KIPRJMOD}/lib_sch/5-1814832-1.lib)(options "")(descr ""))
+  (lib (name 132134-15)(type Legacy)(uri ${KIPRJMOD}/lib_sch/132134-15.lib)(options "")(descr ""))
+  (lib (name SMA_CONNECTOR)(type Legacy)(uri ${KIPRJMOD}/lib_sch/SMA_CONNECTOR.lib)(options "")(descr ""))
+  (lib (name 1-84953-5)(type Legacy)(uri ${KIPRJMOD}/lib_sch/1-84953-5.lib)(options "")(descr ""))
+  (lib (name AO7400)(type Legacy)(uri ${KIPRJMOD}/lib_sch/AO7400.lib)(options "")(descr ""))
+  (lib (name NLSX5014DTR2G)(type Legacy)(uri ${KIPRJMOD}/lib_sch/NLSX5014DTR2G.lib)(options "")(descr ""))
+  (lib (name 142-0701-801)(type Legacy)(uri ${KIPRJMOD}/lib_sch/142-0701-801.lib)(options "")(descr ""))
+  (lib (name EMPCB.SMAFSTJ.B.HT)(type Legacy)(uri ${KIPRJMOD}/lib_sch/EMPCB.SMAFSTJ.B.HT.lib)(options "")(descr ""))
+)
