@@ -170,8 +170,6 @@ Connection ~ 7375 4325
 Connection ~ 7375 5625
 Wire Wire Line
 	7375 5625 7375 5675
-NoConn ~ 8625 4525
-NoConn ~ 8625 4425
 Wire Wire Line
 	7375 1700 7375 1825
 Wire Wire Line
@@ -502,4 +500,12 @@ F 3 "~" H 7900 1600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7700 1600 7375 1600
+Wire Wire Line
+	8625 4425 7800 4425
+Text Label 7900 4425 0    50   ~ 0
+GPIO1_1V8
+Wire Wire Line
+	8625 4525 7800 4525
+Text Label 7900 4525 0    50   ~ 0
+GPIO0_1V8
 $EndSCHEMATC
